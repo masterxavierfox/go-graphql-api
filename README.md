@@ -1,5 +1,5 @@
 # GraphQL API built in Go
-Source code for  [Medium blog post](https://medium.com/radio-africa-techblog/rabbit-mq-clustering-guide-8a1e756cf848) I wrote.
+Source code for  [Medium blog post](https://medium.com/@xavierfox/how-to-code-an-an-api-with-go-and-graphql-1e86c950bd1) I wrote.
 
 ## Run Locally
   - Run `realize start`
