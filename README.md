@@ -6,7 +6,7 @@ Source code for  [Medium blog post](https://medium.com/@xavierfox/how-to-code-an
 
 ## Contributing
 
-1. Fork it ( https://github.com/masterxavierfox/go-graphql-api.git/fork )
+1. Fork it ( https://github.com/masterxavierfox/go-graphql-api.git )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
